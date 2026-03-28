@@ -1,11 +1,13 @@
-# file-hash
+# file_hash
 
-Hash files with multiple algorithms.""".
-
-Zero dependencies. Python 3.8+.
+File hasher — MD5, SHA1, SHA256, SHA512, compare
 
 ## Usage
 
 ```bash
 python3 file_hash.py --help
 ```
+
+## License
+
+MIT
